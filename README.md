@@ -1,2 +1,5 @@
 # MSDS_HW
-Repo for SMU MSDS Homework files
+Purpose: Repo for SMU MSDS Homework files
+Topics: NA
+Sources: NA
+Contact Info: Eric Balke @ eric.balke@yahoo.com
